@@ -1,15 +1,12 @@
 # Wordle: A Dictionary and a Cheat Engine
-=========
 A dictionary scraper and a cheat engine for the game Wordle.
 
 ## Acknowledgements
----------
 This could not have been built without the help of:
 - Samuel Morse (1791-1872)
 - [Wordle](https://www.powerlanguage.co.uk/wordle/)
 
 ## Usage
----------
 0. Download the notebook and open it with [Google Colab](https://colab.research.google.com/?utm_source=scs-index) (g-drive) or [JupyterLab](https://jupyter.org/) (software download).
 - For Google Colab, simply upload the notebook back to your google drive, then open it.
 
@@ -29,6 +26,5 @@ Contributions, issues and feature requests are welcome!
 Feel free to check the [issues](https://github.com/joisse1101/wordlescrapy/issues) page.
 
 ## Authors
----------
 Joyce T.
 https://joisse1101.wordpress.com/2022/01/27/the-wordle-dictionary/
