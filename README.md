@@ -22,9 +22,9 @@ This could not have been built without the help of:
 - Note that the higher the number, the more results the algorithm will return.
 
 ## Contributing
-Contributions, issues and feature requests are welcome!
+Contributions, issues and feature requests are welcome!  
 Feel free to check the [issues](https://github.com/joisse1101/wordlescrapy/issues) page.
 
 ## Authors
-Joyce T.
-https://joisse1101.wordpress.com/2022/01/27/the-wordle-dictionary/
+Joyce T.  
+[Link to my blog](https://joisse1101.wordpress.com/2022/01/27/the-wordle-dictionary/)
