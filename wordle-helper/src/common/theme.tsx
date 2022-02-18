@@ -43,5 +43,6 @@ export const darkTheme = createTheme({
 
 export default function Theme() {
   const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
+  console.log("DarkMode:", prefersDarkMode)
   return (prefersDarkMode ? darkTheme : lightTheme)
 }
